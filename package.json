@@ -1,0 +1,19 @@
+{
+  "name": "meuprimeirochatbot",
+  "version": "1.0.0",
+  "description": "Meu primeiro chatbot, tomando como base o curso da plataforma alura.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neto25/MeuPrimeiroChatBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neto25/MeuPrimeiroChatBot/issues"
+  },
+  "homepage": "https://github.com/Neto25/MeuPrimeiroChatBot#readme"
+}
